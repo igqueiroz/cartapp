@@ -1,4 +1,4 @@
-# Youtube APP
+# Cart APP
 O app é um exemplo de carrinho de compras responsivo com os módulos de listar items dinamicamente, montar uma galeria simples, excluir e somar itens no carrinho. Feito NodeJS, React, Java Script, Webpack e SASS.
 
 # Para rodar o App
